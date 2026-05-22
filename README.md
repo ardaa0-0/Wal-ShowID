@@ -148,6 +148,10 @@ Config.Jobs = {
   <em>Detailed Job and Status HUD / Detaylı Meslek, Ses Seviyesi ve Durum Göstergeleri</em>
 </p>
 
+<p align="center">
+  <img src="https://imgur.com/a/hqxZLBd" alt="ShowID Status Badge Preview" width="800" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"><br>
+</p>
+
 <br>
 
 <p align="center">
